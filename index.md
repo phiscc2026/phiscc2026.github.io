@@ -3,6 +3,7 @@ layout: page
 feature_text: |
   # PHISCC Workshop 2026
   12&ndash;16 October 2026, Beijing, China
+feature_image: "assets/weiminLake.jpg"
 ---
 
 The 16th workshop of the Pathfinder HI Science Coordination Committee (PHISCC) will be held in Beijing, China, on 12&ndash;16 October 2026.
