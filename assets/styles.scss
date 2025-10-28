@@ -1,0 +1,42 @@
+---
+title: false
+styles: true
+---
+
+// Typography
+$bodytype: (
+  font-family: "-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "'Linux Libertine', 'Georgia', 'Times', 'Times New Roman', 'Source Serif 4', serif",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import "alembic";
+
+
+.typeset {
+
+  // Paragraphs. OpenType ligatures enabled if available.
+  p {
+    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+    font-feature-settings: 'kern', 'liga';
+  }
+
+  // Headings. OpenType ligatures and lining figures enabled if available.
+  h1, h2, h3, h4, h5, h6 {
+    color: $headingColour;
+    font-family: unquote(map-get($headingtype, font-family));
+    font-feature-settings: 'liga', 'lnum', 'kern';
+    font-style: normal;
+    font-weight: map-get($headingtype, bold);
+  }
+
+}
