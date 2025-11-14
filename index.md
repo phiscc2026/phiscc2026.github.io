@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 feature_text: |
   # PHISCC Workshop 2026
   12&ndash;16 October 2026, Beijing, China
@@ -17,37 +18,37 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 
 ## Important dates
 
-### 2025:
- + 15 Dec: pre-announcement for the important dates.
- 
-### 2026:
- + 1 Feb: announcement for registration and abstract submission.
- + 1 Apr: abstract submission closes.
- + 1 June: email results of abstract selection.
-
- + 30 June: preliminary program of breakout sessions.
- + 30 Sep: registration close.
- + 12-16 Oct: workshop.
++ 15 Dec 2025: pre-announcement for the important dates.
++ 1 Feb 2026: announcement for registration and abstract submission.
++ 1 Apr 2026: abstract submission closes.
++ 1 June 2026: email results of abstract selection.
++ 30 June 2026: preliminary program of breakout sessions.
++ 30 Sep 2026: registration close.
++ 12&ndash;16 Oct 2026: workshop.
 
 ## Plenary sessions
 
+TBD
+
 ## Breakout sessions
+
+TBD
 
 
 ## SOC 
 
-    Barbara Catinella (ICRAR)
-    Thijs van der Hulst (Kapteyn Institute)
-    Nissim Kanekar (NCRA - TIFR)
-    Gabriella De Lucia (INAF - Trieste)
-    Elizabeth Mahony (CSIRO - ATNF)
-    D.J. Pisano (University of Cape Town)
-    Paolo Serra (INAF - Cagliari)
-    Snezana Stanimirovic (WISC)
-    Jing Wang (KIAA)
++ Barbara Catinella (ICRAR)
++ Thijs van der Hulst (Kapteyn Institute)
++ Nissim Kanekar (NCRA - TIFR)
++ Gabriella De Lucia (INAF - Trieste)
++ Elizabeth Mahony (CSIRO - ATNF)
++ D.J. Pisano (University of Cape Town)
++ Paolo Serra (INAF - Cagliari)
++ Snezana Stanimirovic (WISC)
++ Jing Wang (KIAA)
 
 ## LOC
-    Qifeng Huang (KIAA)
-    Xuchen Lin (KIAA)
-    Ms. Min Sun (KIAA)
-    Dong Yang (KIAA)
++ Qifeng Huang (KIAA)
++ Xuchen Lin (KIAA)
++ Ms. Min Sun (KIAA)
++ Dong Yang (KIAA)
