@@ -64,6 +64,8 @@ exclude:
 navigation_header:
 - title: Home
   url: /
+- title: About PHISCC
+  url: /phiscc
 # - title: "SOC/LOC"
 #   url: /soc_loc
 
