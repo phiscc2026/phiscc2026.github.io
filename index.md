@@ -26,14 +26,26 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 + 30 Sep 2026: registration close.
 + 12&ndash;16 Oct 2026: workshop.
 
-## Plenary sessions
+## Topics of plenary sessions
 
-TBD
+- HI results on gas accretion and star formation in the context of a multiphase ISM and CGM
+- Galaxy dynamics
+- Interaction between galaxies and the surrounding environment
+- AGN feeding and feedback
+- The evolution of the HI properties of galaxies with redshift
+- Predictions from and comparison with theory and simulations
 
-## Breakout sessions
+## Topics of breakout sessions
 
-TBD
-
+- New and future instrumentations
+- Handling RFI at low frequencies and data-processing pipelines
+- Techniques for continuum subtraction
+- Image quality in the era of big data
+- Source Finding
+- Visualisation
+- Source Characterisation
+- Kinematical modelling
+- Spectral stacking
 
 ## SOC 
 
@@ -45,7 +57,7 @@ TBD
 + D.J. Pisano (University of Cape Town)
 + Paolo Serra (INAF - Cagliari)
 + Snezana Stanimirovic (WISC)
-+ Jing Wang (KIAA)
++ Jing Wang (chair; KIAA)
 
 ## LOC
 + Qifeng Huang (KIAA)
