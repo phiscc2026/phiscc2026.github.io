@@ -3,7 +3,6 @@ layout: page
 title: About PHISCC
 feature_text: |
   # What is PHISCC
-  Today, PHISCC stands for  
   **Pathfinder HI SCience Community**
 ---
 
