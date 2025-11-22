@@ -56,7 +56,7 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 + Elizabeth Mahony (CSIRO - ATNF)
 + D.J. Pisano (University of Cape Town)
 + Paolo Serra (INAF - Cagliari)
-+ Snezana Stanimirovic (WISC)
++ Snezana Stanimirovic (UW - Madison)
 + Jing Wang (chair; KIAA)
 
 ## LOC
