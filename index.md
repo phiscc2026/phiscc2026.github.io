@@ -34,12 +34,12 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 - AGN feeding and feedback
 - The evolution of the HI properties of galaxies with redshift
 - Predictions from and comparison with theory and simulations
+- HI cosmology
 
 ## Topics of breakout sessions
 
 - New and future instrumentations
 - Handling RFI at low frequencies and data-processing pipelines
-- Techniques for continuum subtraction
 - Image quality in the era of big data
 - Source Finding
 - Visualisation
