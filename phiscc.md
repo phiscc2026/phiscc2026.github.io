@@ -3,12 +3,12 @@ layout: page
 title: About PHISCC
 feature_text: |
   # What is PHISCC
-  **Pathfinder HI SCience Community**
+  **Pathfinder {% include sc-hi.html %} SCience Community**
 ---
 
-PHISCC originally started in 2009 as a small committee &mdash; and with a slightly different acronym. The goal of the committee was to coordinate activities on the way to the HI surveys on SKA pathfinders and precursors. At that time, PHISCC members were primarily the PIs of the major HI surveys.
+PHISCC originally started in 2009 as a small committee &mdash; and with a slightly different acronym. The goal of the committee was to coordinate activities on the way to the {% include sc-hi.html %} surveys on SKA pathfinders and precursors. At that time, PHISCC members were primarily the PIs of the major {% include sc-hi.html %} surveys.
 
-With the HI surveys in full swing &mdash; some even completed &mdash; PHISCC has broadened into an HI community forum to facilitate the discussion of our results and techniques, strengthening our science and our community, and engaging early-career researchers. All this is done primarily through the organisation of the approximately yearly PHISCC workshops, whose main focus is still on SKA pathfinders and precursors.
+With the {% include sc-hi.html %} surveys in full swing &mdash; some even completed &mdash; PHISCC has broadened into an {% include sc-hi.html %} community forum to facilitate the discussion of our results and techniques, strengthening our science and our community, and engaging early-career researchers. All this is done primarily through the organisation of the approximately yearly PHISCC workshops, whose main focus is still on SKA pathfinders and precursors.
 
 # PHISCC workshops
 
@@ -31,7 +31,7 @@ PHISCC workshops include typically a mix of plenary science sessions and smaller
 
 # PHISCC coordinators
 
-With the current format, the organisation of the PHISCC workshops is coordinated by a small group of seven HI astronomers covering a range of expertise both in terms of science topics and telescopes.
+With the current format, the organisation of the PHISCC workshops is coordinated by a small group of seven {% include sc-hi.html %} astronomers covering a range of expertise both in terms of science topics and telescopes.
 The plan is for a few of these coordinators to be replaced every few years to keep the group lively and representative of an evolving community.
 
 The current PHISCC coordinators are:
