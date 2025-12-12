@@ -39,4 +39,9 @@ $headingtype: (
     font-weight: map-get($headingtype, bold);
   }
 
+  .small-caps-hi {
+    font-feature-settings: 'smcp', 'kern';
+    font-kerning: normal;
+  }
+
 }

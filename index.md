@@ -7,14 +7,14 @@ feature_text: |
 feature_image: "assets/weiminLake.jpg"
 ---
 
-The 16th workshop of the [PHISCC](phiscc.md) will be held in Beijing, China, on 12&ndash;16 October 2026.
+The 16th workshop of the PHISCC will be held in Beijing, China, on 12&ndash;16 October 2026.
 
 ## Motivation
 
-The series of annual PHISCC workshops started in 2009 and aims at bringing together the community interested in HI research with the SKA pathfinders and precursors.
+The series of annual PHISCC workshops started in 2009 and aims at bringing together the community interested in {% include sc-hi.html %} research with the SKA pathfinders and precursors.
 The goal of the PHISCC workshops is to foster collaboration and exchange of ideas both from a scientific and technical point of view, with a strong focus on engaging early-career researchers.
 
-With most major new and upgraded facilities for 21&thinsp;cm research operational, the PHISCC 2026 workshop will focus on the latest HI results in the broader multi-wavelength context and in connection with theory and simulations.
+With most major new and upgraded facilities for 21&thinsp;cm research operational, the PHISCC 2026 workshop will focus on the latest {% include sc-hi.html %} results in the broader multi-wavelength context and in connection with theory and simulations.
 
 ## Important dates
 
@@ -28,13 +28,13 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 
 ## Topics of plenary sessions
 
-- HI results on gas accretion and star formation in the context of a multiphase ISM and CGM
+- {% include sc-hi.html %} results on gas accretion and star formation in the context of a multiphase ISM and CGM
 - Galaxy dynamics
 - Interaction between galaxies and the surrounding environment
 - AGN feeding and feedback
-- The evolution of the HI properties of galaxies with redshift
+- The evolution of the {% include sc-hi.html %} properties of galaxies with redshift
 - Predictions from and comparison with theory and simulations
-- HI cosmology
+- {% include sc-hi.html %} cosmology
 
 ## Topics of breakout sessions
 
