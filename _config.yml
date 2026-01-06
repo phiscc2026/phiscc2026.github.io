@@ -66,6 +66,10 @@ navigation_header:
   url: /
 - title: About PHISCC
   url: /phiscc
+- title: Logistics
+  url: /logistics
+- title: Travel Guides
+  url: /travel
 # - title: "SOC/LOC"
 #   url: /soc_loc
 
