@@ -7,12 +7,12 @@ feature_text: |
 
 ## Venue
 
-The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China.
+The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1SfXoK6FT8IUv4xy_kKtKixPyWWjwf2w&ehbc=2E312F&noprof=1" width="720" height="480"></iframe>
 
 ## Accommodation
-TBD
+The closest hotel to the venue is (The Lakeview Hotel Beijing (北京北大博雅国际酒店))[https://en.thelakeviewbeijing.cn], which is about a 5-minute walk from KIAA. (reservation info TBD)
 
 ## Conference dinner
 TBD
@@ -20,11 +20,13 @@ TBD
 
 ## Travel to Beijing
 
-Beijing is a major international hub, served by Beijing Capital International Airport (**PEK**) and Beijing Daxing International Airport (**PKX**). Transports between the airports and Peking University are offered by train (PEK:¥30, PKX:¥40) and taxi (PEK:~¥120, PKX:~¥230). Typically 1.5 hours are needed to reach Peking University from either airport, depending on traffic conditions.
+Beijing is a major international hub, served by Beijing Capital International Airport (**PEK**) and Beijing Daxing International Airport (**PKX**). Transports between the airports and Peking University are offered by subway (PEK:¥30, PKX:¥40) and taxi (PEK:~¥120, PKX:~¥230). Typically 1.5 hours are needed to reach Peking University from either airport, depending on traffic conditions.
 
 ## Transport within Beijing
 
-Subway is the most convenient way to travel within Beijing. The closest subway station to the campus is Peking University East Gate Station (Line 4). From there, it is about a 10-minute walk to KIAA. Taxis and ride-hailing services (e.g., Didi) are also widely available. Shared bikes are another popular option for short-distance travel.
+Subway is the most convenient way to travel within Beijing. The closest subway station to the campus is Peking University East Gate (Line 4). From there, it is about a 10-minute walk to KIAA. Taxis and ride-hailing services (e.g., Didi) are also widely available. Shared bikes are another popular option for short-distance travel.
 
-## Useful APPs for Travelling in China
-TBD
+<!-- ## Useful APPs for Travelling in China
+TBD -->
+
+For any additional information please contact the Local Organizing Committee at (phiscc2026@126.com)[mailto:phiscc2026@126.com]
