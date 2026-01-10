@@ -31,6 +31,9 @@ github_username:  phiscc2026
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 
+amap_js_key: 4484ceb688ba891a0ef807ac15a7bbe0
+amap_security_js_code: f8269b09767683f291518d56cacebdde
+
 # Build settings
 remote_theme: daviddarnes/alembic@main
 plugins:

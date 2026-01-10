@@ -1,0 +1,14 @@
+{% if page.use_amap %}
+  <!-- AMap security config: MUST come first -->
+  <script>
+    window._AMapSecurityConfig = {
+      securityJsCode: "{{ site.amap_security_js_code }}"
+    };
+  </script>
+
+  <!-- Load AMap JS API -->
+  <script
+    src="https://webapi.amap.com/maps?v=2.0&key={{ site.amap_js_key }}&callback=initMap"
+    async defer>
+  </script>
+{% endif %}
