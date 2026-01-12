@@ -8,13 +8,11 @@ use_amap: true
 
 ## Venue
 
-The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. The campus map can be found at <a href="https://english.pku.edu.cn/map.html">this URL</a>.
+The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1SfXoK6FT8IUv4xy_kKtKixPyWWjwf2w&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
+The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. The campus map can be found at <a href="https://english.pku.edu.cn/map.html">this URL</a>.
 
-Check the Amap if Google Map fails:
-
-<div id="amap" style="width:100%; height:480px;"></div>
+<div id="amap" style="width:100%; height:600px;"></div>
 
 <script>
 window.initMap = function () {
@@ -22,7 +20,7 @@ window.initMap = function () {
   const map = new AMap.Map('amap', {
     zoom: 13,
     center: [116.31115, 39.999266],  // KIAA
-    lang: 'en'
+    lang: 'zh_en'
   });
 
   const marker = new AMap.Marker({
@@ -48,13 +46,13 @@ TBD -->
 
 ## Travel to Beijing
 
-Beijing is a major international hub, served by Beijing Capital International Airport (**PEK**) and Beijing Daxing International Airport (**PKX**). Transports between the airports and Peking University are offered by subway (PEK:¥30, PKX:¥40) and taxi (PEK:~¥120, PKX:~¥230). Typically 1.5 hours are needed to reach Peking University from either airport, depending on traffic conditions.
+Beijing is a major international hub, served by Beijing Capital International Airport (**PEK**) and Beijing Daxing International Airport (**PKX**). 
 
-## Transport within Beijing
+Transports between the airports and Peking University are offered by subway (PEK:¥30, PKX:¥40) and taxi (PEK:~¥120, PKX:~¥230). Typically 1.5 hours are needed to reach the campus from either airport. 
 
-Subway is the most convenient way to travel within Beijing. The closest subway station to the campus is Peking University East Gate (Line 4). From there, it is about a 10-minute walk to KIAA. Taxis and ride-hailing services (e.g., Didi) are also widely available. Shared bikes are another popular option for short-distance travel.
+The closest subway station to the campus is Peking University East Gate (Line 4). From there, it is about a 10-minute walk to KIAA.
 
-<!-- ## Useful APPs for Travelling in China
-TBD -->
+## Official Guides
+This website provides an one-stop city service at airport for forigners: <a href="https://english.beijing.gov.cn/specials/beijingservice/">https://english.beijing.gov.cn/specials/beijingservice</a>
 
 For any additional information please contact the Local Organizing Committee at <a href="mailto:phiscc2026@126.com">phiscc2026@126.com</a>
