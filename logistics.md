@@ -4,21 +4,22 @@ title: Logistics
 feature_text: |
   # Workshop Logistics
 use_amap: true
-use_map: true
 ---
 
 ## Venue
 
-The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. 
+The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. The campus map can be found at <a href="https://english.pku.edu.cn/map.html">this URL</a>.
 
-<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1SfXoK6FT8IUv4xy_kKtKixPyWWjwf2w&ehbc=2E312F&noprof=1" width="720" height="480"></iframe> -->
+<iframe src="https://www.google.com/maps/d/embed?mid=1SfXoK6FT8IUv4xy_kKtKixPyWWjwf2w&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
-<!-- <div id="map" style="width:100%; height:500px;"></div>
+Check the Amap if Google Map fails:
+
+<div id="amap" style="width:100%; height:480px;"></div>
 
 <script>
 window.initMap = function () {
 
-  const map = new AMap.Map('map', {
+  const map = new AMap.Map('amap', {
     zoom: 13,
     center: [116.31115, 39.999266],  // KIAA
     lang: 'en'
@@ -35,21 +36,6 @@ window.initMap = function () {
 
   map.add(marker);
 };
-</script> -->
-
-<div id="map" style="width:100%; height:500px;"></div>
-
-<script>
-const map = L.map('map').setView([39.90923, 116.397428], 13);
-
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  maxZoom: 19,
-  attribution: '© OpenStreetMap'
-}).addTo(map);
-
-L.marker([39.90923, 116.397428])
-  .addTo(map)
-  .bindPopup('Tiananmen Square');
 </script>
 
 
