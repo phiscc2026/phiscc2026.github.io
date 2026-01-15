@@ -36,9 +36,10 @@ window.initMap = function () {
 };
 </script>
 
+<br>
 
 ## Accommodation
-The closest hotel to the venue is <a href="https://en.thelakeviewbeijing.cn"> The Lakeview Hotel Beijing (北京北大博雅国际酒店)</a>, which is about a 5-minute walk from KIAA. (reservation info TBD)
+The closest hotel to the venue is <a href="https://en.thelakeviewbeijing.cn"> The Lakeview Hotel Beijing (北京北大博雅国际酒店)</a>, which is about a 5-minute walk from KIAA.
 
 <!-- ## Conference dinner
 TBD -->
