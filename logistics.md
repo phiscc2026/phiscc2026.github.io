@@ -18,9 +18,8 @@ The campus is famous for its rich historical heritage and beautiful scenery, esp
 window.initMap = function () {
 
   const map = new AMap.Map('amap', {
-    zoom: 13,
+    zoom: 14,
     center: [116.31115, 39.999266],  // KIAA
-    lang: 'zh_en'
   });
 
   const marker = new AMap.Marker({
@@ -36,7 +35,8 @@ window.initMap = function () {
 };
 </script>
 
-<br>
+Link to KIAA on [Google Maps](https://maps.app.goo.gl/nGmR13f64tJ7CXkp9)/[Amap](https://surl.amap.com/bwBRTJQ1oaZj).
+We remind foreign participants that the information of Google Maps may be outdated, and it is recommended to use Amap App when travelling in China, which has English labels and support.
 
 ## Accommodation
 The closest hotel to the venue is <a href="https://en.thelakeviewbeijing.cn"> The Lakeview Hotel Beijing (北京北大博雅国际酒店)</a>, which is about a 5-minute walk from KIAA.
