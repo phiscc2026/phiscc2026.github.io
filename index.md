@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "assets/weiminLake.jpg"
 ---
 
-The 16th workshop of the PHISCC will be held in Beijing, China, on 12&ndash;16 October 2026.
+The 16th workshop of the PHISCC will be held at KIAA, Peking University, Beijing, China, on 12&ndash;16 October 2026.
 
 ## Motivation
 
@@ -24,7 +24,9 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 + 1 June 2026: email results of abstract selection.
 + 30 June 2026: preliminary program of breakout sessions.
 + 30 Sep 2026: registration close.
-+ 12&ndash;16 Oct 2026: workshop.
++ 12&ndash;16 Oct 2026: workshop.  
+
+Instead of the usual 3+2 days for plenary+breakout sessions, we will experiment a new format of morning plenary + afternoon breakout throughout the 5 days, with the possibility of including short plenary in the afternoons.
 
 ## Topics of plenary sessions
 
@@ -39,11 +41,10 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 ## Topics of breakout sessions
 
 - New and future instrumentations
-- Handling RFI at low frequencies and data-processing pipelines
-- Image quality in the era of big data
-- Source Finding
-- Visualisation
-- Source Characterisation
+- Pipelines and QA strategies
+- Source finding
+- Non-VR visualisation
+- Source characterisation
 - Kinematical modelling
 - Spectral stacking
 

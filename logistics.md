@@ -8,7 +8,8 @@ use_amap: true
 
 ## Venue
 
-The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China. 
+The workshop will be held at the Kavli Institute for Astronomy and Astrophysics (KIAA), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China.
+The venue should be able to welcome about 100 attendees. 
 
 The campus is famous for its rich historical heritage and beautiful scenery, especially during the autumn season. The campus map can be found at <a href="https://english.pku.edu.cn/map.html">this URL</a>.
 
@@ -35,7 +36,7 @@ window.initMap = function () {
 };
 </script>
 
-Link to KIAA on [Google Maps](https://maps.app.goo.gl/nGmR13f64tJ7CXkp9)/[Amap](https://surl.amap.com/bwBRTJQ1oaZj).
+[Google Maps](https://maps.app.goo.gl/nGmR13f64tJ7CXkp9)/[Amap](https://surl.amap.com/bwBRTJQ1oaZj) links to KIAA.
 We remind foreign participants that the information of Google Maps may be outdated, and it is recommended to use Amap App when travelling in China, which has English labels and support.
 
 ## Accommodation
