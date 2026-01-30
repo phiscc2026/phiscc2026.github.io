@@ -30,6 +30,10 @@ $headingtype: (
     font-feature-settings: 'kern', 'liga';
   }
 
+  > p {
+    margin-bottom: 1rem;
+  }
+
   // Headings. OpenType ligatures and lining figures enabled if available.
   h1, h2, h3, h4, h5, h6 {
     color: $headingColour;
@@ -37,6 +41,11 @@ $headingtype: (
     font-feature-settings: 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+  }
+
+  ul {
+    margin-bottom: 0.5rem;
+    padding-top: 0;
   }
 
   .small-caps-hi {
