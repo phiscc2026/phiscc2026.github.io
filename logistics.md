@@ -9,11 +9,16 @@ feature_image: "assets/Winter.jpg"
 
 ## Venue
 
-The workshop will be held at [the Kavli Institute for Astronomy and Astrophysics (KIAA)](https://kiaa.pku.edu.cn/), which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China.
+The workshop will be held at <a href="https://kiaa.pku.edu.cn/" target="_blank" rel="noopener noreferrer">
+  the Kavli Institute for Astronomy and Astrophysics (KIAA)</a>, which locates in the campus of Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China.
 The venue should be able to welcome about 100 attendees. 
-The PKU campus ([campus map link](https://english.pku.edu.cn/map.html)) is famous for its rich historical heritage and beautiful scenery, especially during the autumn season.
+The PKU campus (<a href="https://english.pku.edu.cn/map.html" target="_blank" rel="noopener noreferrer">
+  campus map link</a>) is famous for its rich historical heritage and beautiful scenery, especially during the autumn season.
 
-The map below gives the location of KIAA (open it in [Google Maps](https://maps.app.goo.gl/nGmR13f64tJ7CXkp9)/[Amap](https://surl.amap.com/bwBRTJQ1oaZj)).
+The map below gives the location of KIAA (open it in
+<a href="https://maps.app.goo.gl/nGmR13f64tJ7CXkp9" target="_blank" rel="noopener noreferrer">
+  Google Maps</a>/<a href="https://surl.amap.com/bwBRTJQ1oaZj" target="_blank" rel="noopener noreferrer">
+  Amap</a>).
 We remind foreign participants that the information in Google Maps may be outdated, and it is recommended to use Amap App when travelling in China, which has English labels and support.
 
 <div id="amap" style="width:100%; height:600px;"></div>
@@ -43,8 +48,10 @@ window.initMap = function () {
 
 ## Accommodation
 The closest hotels to the venue are
-+ [The Lakeview Hotel Beijing (北京北大博雅国际酒店)](https://en.thelakeviewbeijing.cn) (five minutes from KIAA)
-+ [Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园)](http://www.globalvillagepku.com) (twenty minutes from KIAA)
++ <a href="https://en.thelakeviewbeijing.cn" target="_blank" rel="noopener noreferrer">
+  The Lakeview Hotel Beijing (北京北大博雅国际酒店)</a> (five minutes from KIAA)
++ <a href="http://www.globalvillagepku.com" target="_blank" rel="noopener noreferrer">
+  Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园)</a> (twenty minutes from KIAA)
 
 You could book these two hotels on their websites or through travel agencies like Booking.com, Expedia, Trip.com, etc.
 There are also other options to the south of PKU.
@@ -55,10 +62,12 @@ TBD -->
 ## Travelling to Beijing
 
 Beijing is a major international hub, served by two international airports:
-+ [Beijing Capital International Airport](https://en.bcia.com.cn/) (**PEK**)
++ <a href="https://en.bcia.com.cn/" target="_blank" rel="noopener noreferrer">
+  Beijing Capital International Airport</a> (**PEK**)
   + Taxi: one hour from PKU, ~CN￥120 incl. highway fee 
   + Subway: 1.5 hours from PKU, CN￥30 (<span style="background-color:#A192B2"><font color="white">&nbsp;Capital Airport Express&nbsp;</font></span> plus urban lines)
-+ [Beijing Daxing International Airport](https://www.bdia.com.cn/) (**PKX**).
++ <a href="https://www.bdia.com.cn/" target="_blank" rel="noopener noreferrer">
+  Beijing Daxing International Airport</a> (**PKX**).
   + Taxi: 1.5 hours from PKU, ~CN￥260 incl. highway fee
   + Subway: 1.5 hours from PKU, CN￥40 (<span style="background-color:#0049A5"><font color="white">&nbsp;Daxing Airport Express&nbsp;</font></span> plus urban lines)
 
@@ -82,6 +91,8 @@ It is also easy to hail taxis through e-hailing apps.
 We note that during rush hours, taxis and buses may be stuck in traffic jams.
 
 ## Other Useful Information
-Guides on payment, transportation, tourisms, etc. from the Beijing goverment: [https://english.beijing.gov.cn/specials/beijingservice](https://english.beijing.gov.cn/specials/beijingservice)
+Guides on payment, transportation, tourisms, etc. from the Beijing goverment: <a href="https://english.beijing.gov.cn/specials/beijingservice" target="_blank" rel="noopener noreferrer">
+  https://english.beijing.gov.cn/specials/beijingservice</a>
 
-For any additional information, please contact the Local Organizing Committee at [phiscc2026@126.com](mailto:phiscc2026@126.com).
+For any additional information, please contact the Local Organizing Committee at <a href="mailto:phiscc2026@126.com" target="_blank" rel="noopener noreferrer">
+  phiscc2026@126.com</a>.

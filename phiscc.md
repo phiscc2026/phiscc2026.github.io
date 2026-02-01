@@ -17,18 +17,26 @@ PHISCC workshops include typically a mix of plenary science sessions and smaller
 + 2009 - Bunker Bay, Australia, 16&ndash;18 Nov 2009
 + 2010 - Arniston, South Africa, 2&ndash;6 May 2010
 + 2011 - Perth, Australia, 2&ndash;4 Feb 2011
-+ [2011 - Kloster Seeon, Germany, 14&ndash;18 Jun 2011](https://wwwmpa.mpa-garching.mpg.de/gas2011)
++ <a href="https://wwwmpa.mpa-garching.mpg.de/gas2011" target="_blank" rel="noopener noreferrer">
+  2011 - Kloster Seeon, Germany, 14&ndash;18 Jun 2011</a>
 + 2012 - Cape Town, South Africa, 29 Jan&ndash;3 Feb 2012
 + 2013 - Sydney, Australia, 17&ndash;21 Jun 2013
-+ [2014 - Dwingeloo, the Netherlands, 17&ndash;19 Mar 2014](https://www.astron.nl/phiscc2014)
-+ [2015 - New Brunswick, USA, 16&ndash;20 Mar 2015](https://phiscc.rutgers.edu)
-+ [2016 - Cape Town, South Africa, 1&ndash;3 Feb 2016](https://science.uct.ac.za/department-astronomy/meetings-workshops-past-pathfinders-hi-science-coordination-committee-phiscc-2016/overview)
-+ [2017 - Pune, India, 6&ndash;11 Feb 2017](http://web.ncra.tifr.res.in/PHISCC)
++ <a href="https://www.astron.nl/phiscc2014" target="_blank" rel="noopener noreferrer">
+  2014 - Dwingeloo, the Netherlands, 17&ndash;19 Mar 2014</a>
++ <a href="https://phiscc.rutgers.edu" target="_blank" rel="noopener noreferrer">
+  2015 - New Brunswick, USA, 16&ndash;20 Mar 2015</a>
++ <a href="https://science.uct.ac.za/department-astronomy/meetings-workshops-past-pathfinders-hi-science-coordination-committee-phiscc-2016/overview" target="_blank" rel="noopener noreferrer">
+  2016 - Cape Town, South Africa, 1&ndash;3 Feb 2016</a>
++ <a href="http://web.ncra.tifr.res.in/PHISCC" target="_blank" rel="noopener noreferrer">
+  2017 - Pune, India, 6&ndash;11 Feb 2017</a>
 + 2018 - Pingtang, China, 11&ndash;15 Jun 2018
-+ [2019 - Perth, Australia, 11&ndash;13 Feb 2019](https://www.icrar.org/conferences/phiscc2019)
++ <a href="https://www.icrar.org/conferences/phiscc2019" target="_blank" rel="noopener noreferrer">
+  2019 - Perth, Australia, 11&ndash;13 Feb 2019</a>
 + 2020 - Online due to Covid, 11&ndash;13 May 2020
-+ [2023 - Cape Town, South Africa, 27&ndash;31 Mar 2023](https://www.astro.rug.nl/~phiscc2023)
-+ [2025 - Cagliari, Italy, 22&ndash;26 Sep 2025](https://sites.google.com/inaf.it/phiscc2025)
++ <a href="https://www.astro.rug.nl/~phiscc2023" target="_blank" rel="noopener noreferrer">
+  2023 - Cape Town, South Africa, 27&ndash;31 Mar 2023</a>
++ <a href="https://sites.google.com/inaf.it/phiscc2025" target="_blank" rel="noopener noreferrer">
+  2025 - Cagliari, Italy, 22&ndash;26 Sep 2025</a>
 
 # PHISCC coordinators
 
