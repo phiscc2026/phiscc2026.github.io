@@ -4,7 +4,7 @@ title: Logistics
 feature_text: |
   # Workshop Logistics
 use_amap: true
-feature_image: "assets/Building.jpg"
+feature_image: "assets/FallBuilding.jpg"
 ---
 
 ## Venue

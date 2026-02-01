@@ -4,6 +4,7 @@ title: About PHISCC
 feature_text: |
   # What is PHISCC
   **Pathfinder <span class="small-caps-hi">H&thinsp;i</span> SCience Community**
+feature_image: "assets/FallLake.jpg"
 ---
 
 PHISCC originally started in 2009 as a small committee &mdash; and with a slightly different acronym. The goal of the committee was to coordinate activities on the way to the {% include sc-hi.html %} surveys on SKA pathfinders and precursors. At that time, PHISCC members were primarily the PIs of the major {% include sc-hi.html %} surveys.
