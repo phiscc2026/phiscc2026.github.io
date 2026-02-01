@@ -77,10 +77,11 @@ It is also easy to hail taxis through e-hailing apps.
   Map apps provide real-time bus tracking services.
 + **E-hailing/Taxi.**
   A popular e-hailing app is Didi.
+  Uber does not operate in Chinese Mainland.
 
 We note that during rush hours, taxis and buses may be stuck in traffic jams.
 
 ## Other Useful Information
 Guides on payment, transportation, tourisms, etc. from the Beijing goverment: [https://english.beijing.gov.cn/specials/beijingservice](https://english.beijing.gov.cn/specials/beijingservice)
 
-For any additional information please contact the Local Organizing Committee at [phiscc2026@126.com](mailto:phiscc2026@126.com).
+For any additional information, please contact the Local Organizing Committee at [phiscc2026@126.com](mailto:phiscc2026@126.com).
