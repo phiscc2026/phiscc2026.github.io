@@ -71,6 +71,10 @@ navigation_header:
   url: /phiscc
 - title: Logistics
   url: /logistics
+- title: Register
+  url: https://forms.gle/d2fn1abiqhZZqyGE9
+  target: "_blank"
+  rel: "noopener noreferrer"
 # - title: "SOC/LOC"
 #   url: /soc_loc
 
