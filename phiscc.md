@@ -7,9 +7,11 @@ feature_text: |
 feature_image: "assets/FallLake.jpg"
 ---
 
-PHISCC originally started in 2009 as a small committee &mdash; and with a slightly different acronym. The goal of the committee was to coordinate activities on the way to the {% include sc-hi.html %} surveys on SKA pathfinders and precursors. At that time, PHISCC members were primarily the PIs of the major {% include sc-hi.html %} surveys.
+PHISCC originally started in 2009 as a small committee, i.e., SKA Pathfinder {% include sc-hi.html %} Science Coordination Committee.
+The goal of the committee was to coordinate activities on the way to the {% include sc-hi.html %} surveys on SKA pathfinders and precursors. At that time, PHISCC members were primarily the PIs of the major {% include sc-hi.html %} surveys.
 
-With the {% include sc-hi.html %} surveys in full swing &mdash; some even completed &mdash; PHISCC has broadened into an {% include sc-hi.html %} community forum to facilitate the discussion of our results and techniques, strengthening our science and our community, and engaging early-career researchers. All this is done primarily through the organisation of the approximately yearly PHISCC workshops, whose main focus is still on SKA pathfinders and precursors.
+With the {% include sc-hi.html %} surveys in full swing &mdash; some even completed &mdash; PHISCC has broadened into an {% include sc-hi.html %} community forum with the goals of facilitating the discussion of our results and techniques, strengthening our science and our community, and engaging early-career researchers.
+All of these are done primarily through the organisation of the approximately yearly PHISCC workshops, whose main focus is still on SKA pathfinders and precursors.
 
 # PHISCC workshops
 
