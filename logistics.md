@@ -91,6 +91,9 @@ It is also easy to hail taxis through e-hailing apps.
 We note that during rush hours, taxis and buses may be stuck in traffic jams.
 
 ## Other Useful Information
+Visa information can be found at <a href="https://www.visaforchina.cn/" target="_blank" rel="noopener noreferrer">
+  the website of the Chinese Visa Application Service Center</a>. 
+
 Guides on payment, transportation, tourisms, etc. from the Beijing goverment: <a href="https://english.beijing.gov.cn/specials/beijingservice" target="_blank" rel="noopener noreferrer">
   https://english.beijing.gov.cn/specials/beijingservice</a>
 
