@@ -97,5 +97,8 @@ Visa information can be found at <a href="https://www.visaforchina.cn/" target="
 Guides on payment, transportation, tourisms, etc. from the Beijing goverment: <a href="https://english.beijing.gov.cn/specials/beijingservice" target="_blank" rel="noopener noreferrer">
   https://english.beijing.gov.cn/specials/beijingservice</a>
 
+Detailed visitor information can also be found at the "VISITOR INFO" section of the KIAA website: <a href="https://kiaa.pku.edu.cn/" target="_blank" rel="noopener noreferrer">
+  https://kiaa.pku.edu.cn</a>
+
 For any additional information, please contact the Local Organizing Committee at <a href="mailto:phiscc2026@126.com" target="_blank" rel="noopener noreferrer">
   phiscc2026@126.com</a>.
