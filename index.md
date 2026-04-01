@@ -12,7 +12,7 @@ The 16th workshop of the PHISCC will be held at KIAA, Peking University, Beijing
 **Registration and abstract submission are now open** at
 <a href="https://forms.gle/d2fn1abiqhZZqyGE9" target="_blank" rel="noopener noreferrer">
   this Google Form link</a>.
-The abstract submission will be closed **on 1 April 2026**.
+The abstract submission will be closed automatically **on 12:00 UTC on 2 April 2026, i.e., the moment when the entire globe shares this date**.
 As per the tradition of PHISCC meetings, there is no conference fee.
 
 ## Motivation
