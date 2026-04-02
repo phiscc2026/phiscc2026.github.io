@@ -64,14 +64,21 @@ TBD -->
 Beijing is a major international hub, served by two international airports:
 + <a href="https://en.bcia.com.cn/" target="_blank" rel="noopener noreferrer">
   Beijing Capital International Airport</a> (**PEK**)
-  + Taxi: one hour from PKU, ~CN￥120 incl. highway fee 
+  + Taxi: one hour from PKU, ~CN￥110 plus highway fee of CN￥10
   + Subway: 1.5 hours from PKU, CN￥30 (<span style="background-color:#A192B2"><font color="white">&nbsp;Capital Airport Express&nbsp;</font></span> plus urban lines)
 + <a href="https://www.bdia.com.cn/" target="_blank" rel="noopener noreferrer">
   Beijing Daxing International Airport</a> (**PKX**).
-  + Taxi: 1.5 hours from PKU, ~CN￥260 incl. highway fee
+  + Taxi: 1.5 hours from PKU, ~CN￥230 plus highway fee of CN￥10
   + Subway: 1.5 hours from PKU, CN￥40 (<span style="background-color:#0049A5"><font color="white">&nbsp;Daxing Airport Express&nbsp;</font></span> plus urban lines)
 
 The nearest subway station to KIAA is Peking Univ. East Gate (北京大学东门) of <span style="background-color:#008C95"><font color="white">&nbsp;Line 4&nbsp;</font></span>.
+
+The taxi fares listed above are estimates for daytime travel under normal traffic conditions.
+A 20% surcharge applies from 23:00 to 05:00, and additional fees may be charged for slow-moving traffic.
+Rates on e-hailing platforms may vary.
+When taking a street-hail taxi, always insist on using the metre.
+Pay only the metred fare and remember to ask for a receipt.
+
 
 ## Transport within Beijing
 
