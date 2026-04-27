@@ -98,14 +98,21 @@ It is also easy to hail taxis through e-hailing apps.
 We note that during rush hours, taxis and buses may be stuck in traffic jams.
 
 ## Other Useful Information
-Visa information can be found at <a href="https://www.visaforchina.cn/" target="_blank" rel="noopener noreferrer">
-  the website of the Chinese Visa Application Service Center</a>. 
++ Visa Requirements
+  + **Visa-free Entry:** Citizens holding valid ordinary passports of 50 countries can stay in China for no more than 30 days without a visa.
+    For a full list of eligible countries and specific requirements, please consult the <a href="https://cs.mfa.gov.cn/wgrlh/lhqz/wd/202511/t20251110_11749822.shtml" target="_blank" rel="noopener noreferrer">
+    Ministry of Foreign Affairs visa-free policy page</a>.
+  + **Visa Applications:** If you do not qualify for visa-free entry, you will likely require an F-type (Visitor/_**F**ǎngwèn_) visa.
+    We recommend visiting the website of the Chinese Embassy in your country of residence for specific application instructions.
+    Applications are typically processed through <a href="https://www.visaforchina.cn/" target="_blank" rel="noopener noreferrer">
+      the Chinese Visa Application Service Center</a> or submitted directly via the <a href="https://consular.mfa.gov.cn/VISA/" target="_blank" rel="noopener noreferrer">
+      the China Online Visa Application</a> system.
 
-Guides on payment, transportation, tourisms, etc. from the Beijing goverment: <a href="https://english.beijing.gov.cn/specials/beijingservice" target="_blank" rel="noopener noreferrer">
-  https://english.beijing.gov.cn/specials/beijingservice</a>
++ Guides on payment, transportation, tourisms, etc. from the Beijing goverment: <a href="https://english.beijing.gov.cn/specials/beijingservice" target="_blank" rel="noopener noreferrer">
+    https://english.beijing.gov.cn/specials/beijingservice</a>
 
-Detailed visitor information can also be found at the "VISITOR INFO" section of the KIAA website: <a href="https://kiaa.pku.edu.cn/" target="_blank" rel="noopener noreferrer">
-  https://kiaa.pku.edu.cn</a>
++ Detailed visitor information can also be found at the "VISITOR INFO" section of the KIAA website: <a href="https://kiaa.pku.edu.cn/" target="_blank" rel="noopener noreferrer">
+    https://kiaa.pku.edu.cn</a>
 
 For any additional information, please contact the Local Organizing Committee at <a href="mailto:phiscc2026@126.com" target="_blank" rel="noopener noreferrer">
   phiscc2026@126.com</a>.
