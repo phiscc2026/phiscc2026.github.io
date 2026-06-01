@@ -26,12 +26,12 @@ $headingtype: (
 
   // Paragraphs. OpenType ligatures enabled if available.
   p {
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.7, $below: 1.7, $breakpoint: all);
     font-feature-settings: 'kern', 'liga';
   }
 
   > p {
-    margin-bottom: 1rem;
+    margin-bottom: 0.6rem;
   }
 
   // Headings. OpenType ligatures and lining figures enabled if available.
@@ -43,9 +43,64 @@ $headingtype: (
     font-weight: map-get($headingtype, bold);
   }
 
-  ul {
+  h3, h5 {
+    font-style: italic;
+  }
+
+
+  @include breakpoint(break-3) {
+    h2 { @include sassline(30, $headingtype, 2.8, 0.7, 3); }
+    h3 { @include sassline(25, $headingtype, 2, 0.5, 3); }
+    h4 { @include sassline(22, $headingtype, 2, 0, 3); }
+    h5 { @include sassline(21, $headingtype, 2, 0, 3); }
+  }
+
+  @include breakpoint(break-4) {
+    h2 { @include sassline(32, $headingtype, 2.8, 0.7, 4); }
+    h3 { @include sassline(28, $headingtype, 2, 0.5, 4); }
+    h4 { @include sassline(27, $headingtype, 2, 0, 4); }
+    h5 { @include sassline(23, $headingtype, 2, 0, 4); }
+  }
+
+
+  ul,
+  ol {
+    @include baseline(zeta, $bodytype, 1.7, 1, all);
     margin-bottom: 0.5rem;
     padding-top: 0;
+
+    li {
+      line-height: 1.7rem;
+    }
+
+    li + li {
+      margin-top: 0.2rem;
+    }
+
+    ol,
+    ul {
+      margin-bottom: 0;
+      padding-top: 0.3rem;
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    line-height: 1.25;
+    margin: 0.5rem 0;
+  }
+
+  th,
+  td {
+    border: 0;
+    padding: 0.25em 0.5ex;
+    vertical-align: top;
+  }
+
+  tbody tr:nth-child(odd) > th,
+  tbody tr:nth-child(odd) > td {
+    background-color: rgb(248, 248, 248);
   }
 
   .small-caps-hi {
