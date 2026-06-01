@@ -67,6 +67,8 @@ exclude:
 navigation_header:
 - title: Home
   url: /
+- title: Programme
+  url: /programme
 - title: About PHISCC
   url: /phiscc
 - title: Logistics
