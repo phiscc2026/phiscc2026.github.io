@@ -3,7 +3,7 @@ layout: page
 title: Programme
 feature_text: |
   # Programme
-  They may still be subjected to change
+  They may still be subject to change
 # feature_image: "assets/weiminLake.jpg"
 ---
 ## Monday 12 October
