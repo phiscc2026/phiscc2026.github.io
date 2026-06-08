@@ -51,7 +51,7 @@ feature_text: |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------ |
 | 14:00 | Simone Veronese | Tracing gas accretion and feedback in nearby galaxies using ultra-deep neutral hydrogen MeerKAT observations |
 |       | Jing Wang       | HI distribution for $N_\text{HI}>10^{17.8}\,\text{cm}^{-2}$ at $z=0$                                         |
-|       | Kamphuis        | The neutral gas reservoirs around nearby galaxies                                                            |
+|       | Peter Kamphuis  | The neutral gas reservoirs around nearby galaxies                                                            |
 |       | Xuchen Lin      | FEASTS: a systematic study of turbulent-mixing gas accretion traced by low-column density HI                 |
 | 15:20 | *Break (45min)* |                                                                                                              |
 | 16:05 | Fujia Li        | Deep FAST HI observations of diffuse gas in the circumgalactic medium                                        |
