@@ -100,7 +100,7 @@ We note that during rush hours, taxis and buses may be stuck in traffic jams.
 ## Other Useful Information
 + Visa Requirements
   + **Visa-free Entry:** Citizens holding valid ordinary passports of 50 countries can stay in China for no more than 30 days without a visa.
-    For a full list of eligible countries and specific requirements, please consult the <a href="https://cs.mfa.gov.cn/wgrlh/lhqz/wd/202511/t20251110_11749822.shtml" target="_blank" rel="noopener noreferrer">
+    For a full list of eligible countries and specific requirements, please consult the <a href="https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202511/t20251110_11749824.shtml" target="_blank" rel="noopener noreferrer">
     Ministry of Foreign Affairs visa-free policy page</a>.
   + **Visa Applications:** If you do not qualify for visa-free entry, you will likely require an F-type (Visitor/_**F**ǎngwèn_) visa.
     We recommend visiting the website of the Chinese Embassy in your country of residence for specific application instructions.
