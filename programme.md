@@ -40,7 +40,7 @@ feature_text: |
 |       | Alvaro Segovia Otero  | On the star formation of low surface brightness features around HI-rich passive galaxies         |
 |       | Erwin de Blok         | Some results from MHONGOOSE                                                                      |
 | 10:30 | *Break (45min)*       |                                                                                                  |
-| 11:15 | Hongxin Chen          | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption      |
+| 11:15 | Hongxing Chen         | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption      |
 |       | Van Hiep Nguyen       | Thermal properties of neutral HI in galaxies with the Australian SKA Pathfinder                  |
 |       | Tanita Ramburuth-Hurt | Bridging UV and radio spectroscopy to bring Milky Way metallicity variations to light            |
 |       | Chen Xu               | The FAST Hundred-Deg$^2$ HI Deep (HD$^2$) survey: Early results from the pilot survey            |
