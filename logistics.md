@@ -48,12 +48,10 @@ window.initMap = function () {
 
 ## Accommodation
 The closest hotels to the venue are
-+ <a href="https://en.thelakeviewbeijing.cn" target="_blank" rel="noopener noreferrer">
-  The Lakeview Hotel Beijing (北京北大博雅国际酒店)</a> (five minutes from KIAA)
-+ <a href="http://www.globalvillagepku.com" target="_blank" rel="noopener noreferrer">
-  Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园)</a> (twenty minutes from KIAA)
++ The Lakeview Hotel Beijing (北京北大博雅国际酒店) (five minutes from KIAA)
++ Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园) (twenty minutes from KIAA)
 
-You could book these two hotels on their websites or through travel agencies like Booking.com, Expedia, Trip.com, etc.
+You could book these two hotels through travel agencies like Booking.com, Expedia, Trip.com, etc.
 There are also other options to the south of PKU.
 
 <!-- ## Conference dinner
@@ -102,6 +100,11 @@ We note that during rush hours, taxis and buses may be stuck in traffic jams.
   + **Visa-free Entry:** Citizens holding valid ordinary passports of 50 countries can stay in China for no more than 30 days without a visa.
     For a full list of eligible countries and specific requirements, please consult the <a href="https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202511/t20251110_11749824.shtml" target="_blank" rel="noopener noreferrer">
     Ministry of Foreign Affairs visa-free policy page</a>.
+  + **Visa-free Transit:** Additionally, citizens of Czech, Lithuania, Ukraine, the US, Mexico, and Indonesia may transit through and stay within Chinese Mainland for up to 10 days.
+    Note that ***transit*** means that you must leave Chinese Mainland for a third country or region different from the one from which you entered Chinese Mainland.
+    For example, an itinerary of the US&ndash;China&ndash;Germany meets the requirement, but one of the U.S.&ndash;China&ndash;the US does not.
+    For a full list of specific requirements, please consult the <a href="https://en.nia.gov.cn/n147413/c183100/content.html" target="_blank" rel="noopener noreferrer">
+      Ministry of Foreign Affairs visa-free transit policy page</a>.
   + **Visa Applications:** If you do not qualify for visa-free entry, you will likely require an F-type (Visitor/_**F**ǎngwèn_) visa.
     We recommend visiting the website of the Chinese Embassy in your country of residence for specific application instructions.
     Applications are typically processed through <a href="https://www.visaforchina.cn/" target="_blank" rel="noopener noreferrer">
