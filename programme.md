@@ -82,12 +82,12 @@ feature_text: |
 
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
 | 9:30  | Sushma Kurapati    | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
-| 10:30 | *Break (45min)*    |                                                                                                               |
-| 11:15 | Jiantong Cui       | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
+|       | Jiantong Cui       | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
 |       | Hao He             | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                      |
-|       | Martin Meyer       | Deep HI with ASKAP                                                                                            |
+| 10:30 | *Break (45min)*    |                                                                                                               |
+| 11:15 | Martin Meyer       | Deep HI with ASKAP                                                                                            |
 |       | Kyle Oman          | Modelling HI in the COLIBRE simulations                                                                       |
-| 12:35 | *Lunch*            |                                                                                                               |
+| 12:00 | *Lunch*            |                                                                                                               |
 
 ##### Breakout sessions II 
 
@@ -101,15 +101,14 @@ feature_text: |
 ##### AGN
 
 | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------- |
-| 9:30  | Neeraj Gupta     | The MeerKAT Absorption Line Survey (MALS): New results on cold gas in galaxies and AGN                        |
-|       | Partha Deka      | HI 21&thinsp;cm absorption in low- and high-excitation radio galaxies from MALS                               |
+| 9:30  | Partha Deka      | HI 21&thinsp;cm absorption in low- and high-excitation radio galaxies from MALS                               |
 |       | Wenkai Hu        | The FAST HI 21&thinsp;cm absorption blind survey                                                              |
+|       | Filippo Maccagni | MeerKAT deep HI observations of AGN feeding                                                                   |
 | 10:30 | *Break (45min)*  |                                                                                                               |
-| 11:15 | Filippo Maccagni | MeerKAT deep HI observations of AGN feeding                                                                   |
-|       | Qingzheng Yu     | Hidden HI clouds in the Milky Way’s nuclear wind                                                              |
+| 11:15 | Qingzheng Yu     | Hidden HI clouds in the Milky Way’s nuclear wind                                                              |
 |       | Ruitian Li       | A spatially resolved HI survey of Seyfert galaxies: The role of AGN feedback in shaping atomic gas reservoirs |
 |       |                  | Closing remarks for plenary sessions                                                                          |
-| 12:30 | *Lunch*          |                                                                                                               |
+| 12:10 | *Lunch*          |                                                                                                               |
 
 ##### Breakout sessions III
 
@@ -163,6 +162,6 @@ feature_text: |
 ### Multi-wavelength Synergy	
 [Friday afternoon](#breakout-sessions-iii), *led by:* Tao Wang
 
-| --------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Tao Wang        | The role of tidal interactions in regulating HI gas flows and fueling starbursts in a local compact group of dwarf galaxies |
-| Tamsyn O'Beirne | Tracing baryons from the CGM to the ISM with the MUSE-ALMA Haloes program                                                   |
+| --------------- | ---------------------------------------------------------------------------------------------- |
+| Tao Wang        | The fundamental internal and external processes driving cool gas accretion in massive galaxies |
+| Tamsyn O'Beirne | Tracing baryons from the CGM to the ISM with the MUSE-ALMA Haloes program                      |
