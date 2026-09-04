@@ -81,9 +81,7 @@ feature_text: |
 ##### Dynamics
 
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| 9:30  | Enrico Di Teodoro  | Dark matter halos and scaling relations of extremely massive spiral galaxies                                  |
-|       | Konstantin Haubner | BIG-SPARC: 2000 HI rotation curves and mass&ndash;size relation for studies of galaxy dynamics and evolution  |
-|       | Sushma Kurapati    | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
+| 9:30  | Sushma Kurapati    | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
 | 10:30 | *Break (45min)*    |                                                                                                               |
 | 11:15 | Jiantong Cui       | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
 |       | Hao He             | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                      |
@@ -116,7 +114,7 @@ feature_text: |
 ##### Breakout sessions III
 
 | ----- | ----- | ----- |
-| 14:00 | **Discussion &mdash; Source Finding**<br/>(*Led by:* Peter Kamphuis)<br/>[Featured talks](#discussion-1) | **Multi-wavelength Synergy**<br/>(*Led by:* Daniel Wang)<br/>[Featured talks](#multi-wavelength-synergy) |
+| 14:00 | **Discussion &mdash; Source Finding**<br/>(*Led by:* Peter Kamphuis)<br/>[Featured talks](#discussion-1) | **Multi-wavelength Synergy**<br/>(*Led by:* Tao Wang)<br/>[Featured talks](#multi-wavelength-synergy) |
 | 15:30 | *Break (30min)* | |
 | 16:00 | **Tutorial &mdash; Source Finding**<br/>(*Led by:* Paolo Serra) | **Team meetings** |
 | 17:30 | *End of day* | |
@@ -163,8 +161,8 @@ feature_text: |
 | Adrien Anthore | Convolutional neural networks for HI detection on SKA precursors: an update and analysis |
 
 ### Multi-wavelength Synergy	
-[Friday afternoon](#breakout-sessions-iii), *led by:* Daniel Wang
+[Friday afternoon](#breakout-sessions-iii), *led by:* Tao Wang
 
 | --------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Daniel Wang     | The role of tidal interactions in regulating HI gas flows and fueling starbursts in a local compact group of dwarf galaxies |
+| Tao Wang        | The role of tidal interactions in regulating HI gas flows and fueling starbursts in a local compact group of dwarf galaxies |
 | Tamsyn O'Beirne | Tracing baryons from the CGM to the ISM with the MUSE-ALMA Haloes program                                                   |

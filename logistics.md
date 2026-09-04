@@ -51,8 +51,7 @@ The closest hotels to the venue are
 + The Lakeview Hotel Beijing (北京北大博雅国际酒店) (five minutes from KIAA)
 + Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园) (twenty minutes from KIAA)
 
-You could book these two hotels through travel agencies like Booking.com, Expedia, Trip.com, etc.
-There are also other options to the south of PKU.
+You could book these two hotels, or other options to the south of PKU, directly through travel agencies like Booking.com, Expedia, Trip.com, etc.
 
 <!-- ## Conference dinner
 TBD -->
