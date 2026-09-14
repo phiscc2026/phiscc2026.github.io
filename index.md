@@ -10,10 +10,7 @@ feature_image: "assets/weiminLake.jpg"
 The 16th workshop of the PHISCC will be held at KIAA, Peking University, Beijing, China, on 12&ndash;16 October 2026.
 **The [preliminary programme](/programme.md) is now available.**
 
-The abstract submission has been closed, but you may still register the workshop at
-<a href="https://forms.gle/5RRFyGpNRq1iU6pE9" target="_blank" rel="noopener noreferrer">
-  this Google Form link</a>.
-We note that **late registrants may be held on the waiting list**.
+The abstract submission and registration have been closed due to the limited capacity.
 As per the tradition of PHISCC meetings, there is no conference fee.
 
 ## Motivation
@@ -30,7 +27,7 @@ With most major new and upgraded facilities for 21&thinsp;cm research operationa
 + 1 Apr 2026: abstract submission closes.
 + 1 June 2026: email results of abstract selection.
 + 30 June 2026: preliminary program of breakout sessions.
-+ 30 Sep 2026: registration close.
++ 14 Sep 2026: registration closes.
 + 12&ndash;16 Oct 2026: workshop.  
 
 Instead of the usual 3+2 days for plenary+breakout sessions, we will experiment a new format of morning plenary + afternoon breakout throughout the 5 days, with the possibility of including short plenary in the afternoons.

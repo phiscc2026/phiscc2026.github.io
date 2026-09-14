@@ -73,10 +73,10 @@ navigation_header:
   url: /phiscc
 - title: Logistics
   url: /logistics
-- title: Late Registration
-  url: https://forms.gle/5RRFyGpNRq1iU6pE9
-  target: "_blank"
-  rel: "noopener noreferrer"
+# - title: Late Registration
+#   url: https://forms.gle/5RRFyGpNRq1iU6pE9
+#   target: "_blank"
+#   rel: "noopener noreferrer"
 # - title: "SOC/LOC"
 #   url: /soc_loc
 
