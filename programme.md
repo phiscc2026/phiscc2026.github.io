@@ -16,14 +16,13 @@ feature_text: |
 | 10:30 | *Break (45min)*               |                                                                                          |
 | 11:15 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
 |       | Lister Staveley-Smith         | A WALLABY/FUDS study of galaxy evolution                                                 |
-|       | Roger Deane                   | Strongly lensed HI and OH: An ultra-deep tier for SKA-era spectral line surveys          |
 |       | Michalina Maksymowicz-Maciata | HI mass function from the largest sample of direct HI detections at $z>0.2$              |
-| 12:35 | *Lunch*                       |                                                                                          |
+| 12:15 | *Lunch*                       |                                                                                          |
 | 14:00 | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
 |       | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
 |       | Abhisek Mohapatra             | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
 |       | Matthew Colless               | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
-|       | Matt Jarvis                   | MIGHTEE-HI: Past, present and future                                                     |
+|       | Shilpa Ranchod                | MIGHTEE-HI: Past, present and future                                                     |
 | 15:40 | *Break (30min)*               |                                                                                          |
 
 ##### Breakout sessions I
@@ -36,15 +35,14 @@ feature_text: |
 ##### ISM structure/properties and star formation
 
 | ----- | --------------------- | ------------------------------------------------------------------------------------------------ |
-| 9:30  | Cosima Eibensteiner   | Star formation scaling relations in the Local Group from the Local Group *L*-Band Survey (LGLBS) |
-|       | Alvaro Segovia Otero  | On the star formation of low surface brightness features around HI-rich passive galaxies         |
+| 9:30  | Alvaro Segovia Otero  | On the star formation of low surface brightness features around HI-rich passive galaxies         |
 |       | Erwin de Blok         | Some results from MHONGOOSE                                                                      |
+|       | Hongxing Chen         | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption      |
 | 10:30 | *Break (45min)*       |                                                                                                  |
-| 11:15 | Hongxing Chen         | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption      |
-|       | Van Hiep Nguyen       | Thermal properties of neutral HI in galaxies with the Australian SKA Pathfinder                  |
+| 11:15 | Van Hiep Nguyen       | Thermal properties of neutral HI in galaxies with the Australian SKA Pathfinder                  |
 |       | Tanita Ramburuth-Hurt | Bridging UV and radio spectroscopy to bring Milky Way metallicity variations to light            |
 |       | Chen Xu               | The FAST Hundred-Deg$^2$ HI Deep (HD$^2$) survey: Early results from the pilot survey            |
-| 12:35 | *Lunch*               |                                                                                                  |
+| 12:15 | *Lunch*               |                                                                                                  |
 
 ##### Gas around galaxies and Accretion
 
@@ -54,11 +52,12 @@ feature_text: |
 |       | Peter Kamphuis  | The neutral gas reservoirs around nearby galaxies                                                            |
 |       | Xuchen Lin      | FEASTS: a systematic study of turbulent-mixing gas accretion traced by low-column density HI                 |
 | 15:20 | *Break (45min)* |                                                                                                              |
-| 16:05 | Fujia Li        | Deep FAST HI observations of diffuse gas in the circumgalactic medium                                        |
+| 16:05 | Tamsyn O'Beirne | Tracing baryons from the CGM to the ISM with the MUSE-ALMA Haloes program                                    |
+|       | Fujia Li        | Deep FAST HI observations of diffuse gas in the circumgalactic medium                                        |
 |       | Mary Rickel     | Azimuthal asymmetry in the diffuse HI around NGC&nbsp;891 and NGC&nbsp;4565                                  |
 |       | Jonathan Stern  | Resolving the cool CGM tension with hot inflows                                                              |
 |       | Sriram Sankar   | Hot accretion onto spiral galaxies: The origin of extended and warped HI discs                               |
-| 17:25 | *End of day*    |                                                                                                              |
+| 17:45 | *End of day*    |                                                                                                              |
 
 ## Wednesday 14 October
 ##### Environment
@@ -75,7 +74,7 @@ feature_text: |
 |       | Tobias Westmeier            | WALLABY and the kinematic alignment of galaxies                                                                              |
 |       | Lyla Jung                   | Environmental effects of cosmic filaments on galactic HI probed using MIGHTEE-HI                                             |
 | 12:40 | *Lunch*                     |                                                                                                                              |
-|       | Free afternoon              | **Team meetings**                                                                                                            |
+| 14:00 | *Free afternoon*            | **Team meeting** of *WALLABY Students' getting together*                                                                   |
 
 ## Thursday 15 October
 ##### Dynamics
@@ -92,9 +91,9 @@ feature_text: |
 ##### Breakout sessions II 
 
 | ----- | ----- | ----- |
-| 14:00 | **Discussion &mdash; Kinematical Modeling**<br/>(*Led by:* Se-Heon Oh)<br/>[Featured talks](#discussion) | **Team meetings** |
+| 14:00 | **Discussion &mdash; Kinematical Modeling**<br/>(*Led by:* Se-Heon Oh)<br/>[Featured talks](#discussion) | **Team meeting** of *Fornax* |
 | 15:30 | *Break (30min)* | |
-| 16:00 | **Tutorial &mdash; Kinematical Modeling**<br/>(*Led by:* Nathan Deg)<br/>[Featured talks](#tutorial)     | **Team meetings** |
+| 16:00 | **Tutorial &mdash; Kinematical Modeling**<br/>(*Led by:* Nathan Deg)<br/>[Featured talks](#tutorial)     | **HI Galaxy Science Driven Technical Considerations for the FAST Core Array** |
 | 17:30 | *End of day* | |
 
 ## Friday 16 October
@@ -113,9 +112,9 @@ feature_text: |
 ##### Breakout sessions III
 
 | ----- | ----- | ----- |
-| 14:00 | **Discussion &mdash; Source Finding**<br/>(*Led by:* Peter Kamphuis)<br/>[Featured talks](#discussion-1) | **Multi-wavelength Synergy**<br/>(*Led by:* Tao Wang)<br/>[Featured talks](#multi-wavelength-synergy) |
+| 14:00 | **Discussion &mdash; Source Finding**<br/>(*Led by:* Peter Kamphuis)<br/>[Featured talks](#discussion-1) | **Team meetings** |
 | 15:30 | *Break (30min)* | |
-| 16:00 | **Tutorial &mdash; Source Finding**<br/>(*Led by:* Paolo Serra) | **Team meetings** |
+| 16:00 | **Tutorial &mdash; Source Finding**<br/>(*Led by:* Michalina Maksymowicz-Maciata *for LESHI* and Paolo Serra *for SoFiA*) | **Team meeting** of *WALLABY* |
 | 17:30 | *End of day* | |
 
 ## Featured talks in breakout/<wbr/>tutorial sessions
@@ -158,10 +157,3 @@ feature_text: |
 | -------------- | ---------------------------------------------------------------------------------------- |
 | Qifeng Huang   | Galaxy pairs in WALLABY: 3D source de-blending and SFR enhancement                       |
 | Adrien Anthore | Convolutional neural networks for HI detection on SKA precursors: an update and analysis |
-
-### Multi-wavelength Synergy	
-[Friday afternoon](#breakout-sessions-iii), *led by:* Tao Wang
-
-| --------------- | ---------------------------------------------------------------------------------------------- |
-| Tao Wang        | The fundamental internal and external processes driving cool gas accretion in massive galaxies |
-| Tamsyn O'Beirne | Tracing baryons from the CGM to the ISM with the MUSE-ALMA Haloes program                      |
