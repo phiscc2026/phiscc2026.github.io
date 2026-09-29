@@ -74,7 +74,7 @@ feature_text: |
 |       | Tobias Westmeier            | WALLABY and the kinematic alignment of galaxies                                                                              |
 |       | Lyla Jung                   | Environmental effects of cosmic filaments on galactic HI probed using MIGHTEE-HI                                             |
 | 12:40 | *Lunch*                     |                                                                                                                              |
-| 14:00 | *Free afternoon*            | **Team meeting** of *WALLABY Students' getting together*                                                                   |
+| 14:00 | *Free afternoon*            | **Team meeting** of *WALLABY students' getting together*                                                                   |
 
 ## Thursday 15 October
 ##### Dynamics
@@ -86,7 +86,7 @@ feature_text: |
 | 10:30 | *Break (45min)*    |                                                                                                               |
 | 11:15 | Martin Meyer       | Deep HI with ASKAP                                                                                            |
 |       | Kyle Oman          | Modelling HI in the COLIBRE simulations                                                                       |
-| 12:00 | *Lunch*            |                                                                                                               |
+| 11:55 | *Lunch*            |                                                                                                               |
 
 ##### Breakout sessions II 
 
