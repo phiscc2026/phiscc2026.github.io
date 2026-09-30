@@ -129,7 +129,7 @@ feature_text: |
 | Ryan Keenan             | DSA 2000                              |
 
 ### Spectral Stacking
-[Monday afternoon](#breakout-sessions-i), *led by:* Martin Meter & Nissim Kanekar
+[Monday afternoon](#breakout-sessions-i), *led by:* Martin Meyer & Nissim Kanekar
 
 | ----------- | -------------------------------------------------------------------------------------- |
 | Mika Naidoo | Stacking neutral hydrogen emission from infrared-luminous galaxies in the LADUMA field |
