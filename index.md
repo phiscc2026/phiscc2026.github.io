@@ -44,13 +44,12 @@ Instead of the usual 3+2 days for plenary+breakout sessions, we will experiment 
 
 ## Topics of breakout sessions
 
-- New and future instrumentations
-- Pipelines and QA strategies
-- Source finding
-- Non-VR visualisation
-- Source characterisation
-- Kinematical modelling
+- Future instrumentations
+- {% include sc-hi.html %} galaxy science driven technical considerations for the FAST Core Array
+- Source finding: discussion & tutorial
+- Kinematical modelling: discussion & tutorial
 - Spectral stacking
+- Team meetings
 
 ## SOC 
 

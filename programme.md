@@ -28,7 +28,7 @@ feature_text: |
 ##### Breakout sessions I
 
 | ----- | ----- | ----- |
-| 16:10 | **Future Instruments**<br/>(*Led by:* Naomi McClure-Griffiths)<br/>[Featured talks](#future-instruments) | **Spectral Stacking**<br/>(*Led by:* Nissim Kanekar & Balpreet Kaur)<br/>[Featured talks](#spectral-stacking) |
+| 16:10 | **Future Instruments**<br/>(*Led by:* Naomi McClure-Griffiths)<br/>[Featured talks](#future-instruments) | **Spectral Stacking**<br/>(*Led by:* Martin Meyer & Nissim Kanekar)<br/>[Featured talks](#spectral-stacking) |
 | 17:40 | *End of day* | |
 
 ## Tuesday 13 October
@@ -129,7 +129,7 @@ feature_text: |
 | Ryan Keenan             | DSA 2000                              |
 
 ### Spectral Stacking
-[Monday afternoon](#breakout-sessions-i), *led by:* Nissim Kanekar & Balpreet Kaur
+[Monday afternoon](#breakout-sessions-i), *led by:* Martin Meter & Nissim Kanekar
 
 | ----------- | -------------------------------------------------------------------------------------- |
 | Mika Naidoo | Stacking neutral hydrogen emission from infrared-luminous galaxies in the LADUMA field |
