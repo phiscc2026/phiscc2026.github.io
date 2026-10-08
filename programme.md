@@ -6,6 +6,8 @@ feature_text: |
   They may still be subject to change
 # feature_image: "assets/weiminLake.jpg"
 ---
+All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
+
 ## Monday 12 October
 ##### Evolution and cosmology
 
@@ -20,10 +22,9 @@ feature_text: |
 | 12:15 | *Lunch*                       |                                                                                          |
 | 14:00 | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
 |       | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
-|       | Abhisek Mohapatra             | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
 |       | Matthew Colless               | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
 |       | Shilpa Ranchod                | MIGHTEE-HI: Past, present and future                                                     |
-| 15:40 | *Break (30min)*               |                                                                                          |
+| 15:10 | *Break (50min)*               |                                                                                          |
 
 ##### Breakout sessions I
 
@@ -154,6 +155,9 @@ feature_text: |
 #### Discussion
 [Friday afternoon](#breakout-sessions-iii), *led by:* Peter Kamphuis
 
-| -------------- | ---------------------------------------------------------------------------------------- |
-| Qifeng Huang   | Galaxy pairs in WALLABY: 3D source de-blending and SFR enhancement                       |
-| Adrien Anthore | Convolutional neural networks for HI detection on SKA precursors: an update and analysis |
+| ----- | -------------- | ---------------------------------------------------------------------------------------- |
+| 14:00 | Paolo Serra    | How to enhance your source finding: `spectre` and `deblend_sofia_detections`             |
+| 14:15 | Qifeng Huang   | Galaxy pairs in WALLABY: 3D source de-blending and SFR enhancement                       |
+| 14:35 | Adrien Anthore | Convolutional neural networks for HI detection on SKA precursors: an update and analysis |
+| 14:55 | Peter Kamphuis | Labelled observations and mock data cubes for training and benchmarking                  |
+| 15:05 |                | Open discussion                                                                          |
