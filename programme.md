@@ -8,7 +8,15 @@ feature_text: |
 ---
 All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 
+**Room arrangements:**  
++ Plenary sessions: KIAA Auditorium (first floor)
++ Breakout sessions: KIAA Auditorium
+  + Execption: *Spectral Stacking*, Monday afternoon: Shu Qi Meeting Room (first floor)
++ Team meetings, incl. FAST Core Array meeting on Thursday afternoon: the meeting room attached to the Auditorium. 
+
 ## Monday 12 October
+Registration starts at 8:45 a.m. at KIAA.
+
 ##### Evolution and cosmology
 
 | ----- | ----------------------------- | ---------------------------------------------------------------------------------------- |
