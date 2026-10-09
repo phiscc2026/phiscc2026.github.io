@@ -15,26 +15,32 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 + Team meetings, incl. FAST Core Array meeting on Thursday afternoon: the meeting room attached to the Auditorium. 
 
 ## Monday 12 October
-Registration starts at 8:45 a.m. at KIAA.
+
+| ---- | -------------------- | 
+| 8:45 | Registration at KIAA |
+| 9:30 | *Opening remarks*    | 
 
 ##### Evolution and cosmology
 
-| ----- | ----------------------------- | ---------------------------------------------------------------------------------------- |
-| 9:30  |                               | *Opening remarks*                                                                        |
-| 9:45  | Nissim Kanekar (remote)       | The HI properties of galaxies at cosmic noon and thereafter                              |
-|       | Balpreet Kaur (remote)        | The HI properties of star-forming galaxies at $z\sim1$ in the COSMOS field               |
-|       | Hong Guo                      | HI scaling relations from the FASHI survey                                               |
-| 10:45 | *Break (40min)*               |                                                                                          |
-| 11:25 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
-|       | Lister Staveley-Smith         | A WALLABY/FUDS study of galaxy evolution                                                 |
-|       | Michalina Maksymowicz-Maciata | HI mass function from the largest sample of direct HI detections at $z>0.2$              |
-|       | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
-| 12:45 | *Lunch*                       |                                                                                          |
-| 14:10 | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
-|       | Abhisek Mohapatra (remote)    | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
-|       | Matthew Colless               | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
-|       | Shilpa Ranchod                | MIGHTEE-HI: Past, present and future                                                     |
-| 15:30 | *Break (40min)*               |                                                                                          |
+|       | **Chair**                     | Peter Kamphuis                                                              |
+| ----- | ----------------------------- | --------------------------------------------------------------------------- |
+| 9:45  | Nissim Kanekar (remote)       | The HI properties of galaxies at cosmic noon and thereafter                 |
+|       | Balpreet Kaur (remote)        | The HI properties of star-forming galaxies at $z\sim1$ in the COSMOS field  |
+|       | Hong Guo                      | HI scaling relations from the FASHI survey                                  |
+| 10:45 | *Break (40min)*               |                                                                             |
+| 11:25 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                      |
+|       | Lister Staveley-Smith         | A WALLABY/FUDS study of galaxy evolution                                    |
+|       | Michalina Maksymowicz-Maciata | HI mass function from the largest sample of direct HI detections at $z>0.2$ |
+|       | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid           |
+| 12:45 | *Lunch*                       |                                                                             |
+
+|       | **Chair**                  | Lyla Jung                                                                                |
+| ----- | -------------------------- | ---------------------------------------------------------------------------------------- |
+| 14:10 | Lara Featherstone          | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
+|       | Abhisek Mohapatra (remote) | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
+|       | Matthew Colless            | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
+|       | Shilpa Ranchod             | MIGHTEE-HI: Past, present and future                                                     |
+| 15:30 | *Break (40min)*            |                                                                                          |
 
 ##### Breakout sessions I
 
@@ -45,18 +51,20 @@ Registration starts at 8:45 a.m. at KIAA.
 ## Tuesday 13 October
 ##### ISM structure/properties and star formation
 
-| ----- | --------------------- | ------------------------------------------------------------------------------------------------ |
-| 9:30  | Alvaro Segovia Otero  | On the star formation of low surface brightness features around HI-rich passive galaxies         |
-|       | Erwin de Blok         | Some results from MHONGOOSE                                                                      |
-|       | Hongxing Chen         | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption      |
-| 10:30 | *Break (45min)*       |                                                                                                  |
-| 11:15 | Van Hiep Nguyen       | Thermal properties of neutral HI in galaxies with the Australian SKA Pathfinder                  |
-|       | Tanita Ramburuth-Hurt | Bridging UV and radio spectroscopy to bring Milky Way metallicity variations to light            |
-|       | Chen Xu               | The FAST Hundred-Deg$^2$ HI Deep (HD$^2$) survey: Early results from the pilot survey            |
-| 12:15 | *Lunch*               |                                                                                                  |
+|       | **Chair**             | Hao He                                                                                      |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------- |
+| 9:30  | Alvaro Segovia Otero  | On the star formation of low surface brightness features around HI-rich passive galaxies    |
+|       | Erwin de Blok         | Some results from MHONGOOSE                                                                 |
+|       | Hongxing Chen         | Cold HI in the Large Magellanic Cloud: Probing the multiphase ISM with GASKAP-HI absorption |
+| 10:30 | *Break (45min)*       |                                                                                             |
+| 11:15 | Van Hiep Nguyen       | Thermal properties of neutral HI in galaxies with the Australian SKA Pathfinder             |
+|       | Tanita Ramburuth-Hurt | Bridging UV and radio spectroscopy to bring Milky Way metallicity variations to light       |
+|       | Chen Xu               | The FAST Hundred-Deg$^2$ HI Deep (HD$^2$) survey: Early results from the pilot survey       |
+| 12:15 | *Lunch*               |                                                                                             |
 
 ##### Gas around galaxies and Accretion
 
+|       | **Chair**       | Lara Featherstone                                                                                            |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------ |
 | 14:00 | Simone Veronese | Tracing gas accretion and feedback in nearby galaxies using ultra-deep neutral hydrogen MeerKAT observations |
 |       | Jing Wang       | HI distribution for $N_\text{HI}>10^{17.8}\,\text{cm}^{-2}$ at $z=0$                                         |
@@ -73,6 +81,7 @@ Registration starts at 8:45 a.m. at KIAA.
 ## Wednesday 14 October
 ##### Environment
 
+|       | **Chair**                   | Simone Veronese                                                                                                              |
 | ----- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 9:00  | Sambatriniaina Rajohnson    | HI morphologies as diagnostics of gas stripping histories in Fornax galaxies                                                 |
 |       | Nabeelah Adam               | Testing cosmological simulations: Searching for extended HI emission with the MeerKAT Fornax Survey                          |
@@ -90,14 +99,15 @@ Registration starts at 8:45 a.m. at KIAA.
 ## Thursday 15 October
 ##### Dynamics
 
-| ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| 9:30  | Sushma Kurapati (remote) | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
-|       | Jiantong Cui             | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
-|       | Hao He                   | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                      |
-| 10:30 | *Break (45min)*          |                                                                                                               |
-| 11:15 | Martin Meyer             | Deep HI with ASKAP                                                                                            |
-|       | Kyle Oman                | Modelling HI in the COLIBRE simulations                                                                       |
-| 11:55 | *Lunch*                  |                                                                                                               |
+|       | **Chair**                | Sambatriniaina Rajohnson                                                                                |
+| ----- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 9:30  | Sushma Kurapati (remote) | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                   |
+|       | Jiantong Cui             | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations |
+|       | Hao He                   | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                |
+| 10:30 | *Break (45min)*          |                                                                                                         |
+| 11:15 | Martin Meyer             | Deep HI with ASKAP                                                                                      |
+|       | Kyle Oman                | Modelling HI in the COLIBRE simulations                                                                 |
+| 11:55 | *Lunch*                  |                                                                                                         |
 
 ##### Breakout sessions II 
 
@@ -110,6 +120,7 @@ Registration starts at 8:45 a.m. at KIAA.
 ## Friday 16 October
 ##### AGN
 
+|       | Chair            | Nushkia Chamba                                                                                                |
 | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------- |
 | 9:30  | Partha Deka      | HI 21&thinsp;cm absorption in low- and high-excitation radio galaxies from MALS                               |
 |       | Wenkai Hu        | The FAST HI 21&thinsp;cm absorption blind survey                                                              |
