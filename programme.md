@@ -12,19 +12,21 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 ##### Evolution and cosmology
 
 | ----- | ----------------------------- | ---------------------------------------------------------------------------------------- |
-| 9:30  | Nissim Kanekar                | The HI properties of galaxies at cosmic noon and thereafter                              |
+| 9:30  |                               | *Opening remarks*                                                                        |
+| 9:45  | Nissim Kanekar                | The HI properties of galaxies at cosmic noon and thereafter                              |
 |       | Balpreet Kaur                 | The HI properties of star-forming galaxies at $z\sim1$ in the COSMOS field               |
 |       | Hong Guo                      | HI scaling relations from the FASHI survey                                               |
-| 10:30 | *Break (45min)*               |                                                                                          |
-| 11:15 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
+| 10:45 | *Break (45min)*               |                                                                                          |
+| 11:30 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
 |       | Lister Staveley-Smith         | A WALLABY/FUDS study of galaxy evolution                                                 |
 |       | Michalina Maksymowicz-Maciata | HI mass function from the largest sample of direct HI detections at $z>0.2$              |
-| 12:15 | *Lunch*                       |                                                                                          |
+| 12:30 | *Lunch*                       |                                                                                          |
 | 14:00 | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
 |       | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
+|       | Abhisek Mohapatra             | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
 |       | Matthew Colless               | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
 |       | Shilpa Ranchod                | MIGHTEE-HI: Past, present and future                                                     |
-| 15:10 | *Break (50min)*               |                                                                                          |
+| 15:40 | *Break (30min)*               |                                                                                          |
 
 ##### Breakout sessions I
 
@@ -75,7 +77,7 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 |       | Tobias Westmeier            | WALLABY and the kinematic alignment of galaxies                                                                              |
 |       | Lyla Jung                   | Environmental effects of cosmic filaments on galactic HI probed using MIGHTEE-HI                                             |
 | 12:40 | *Lunch*                     |                                                                                                                              |
-| 14:00 | *Free afternoon*            | **Team meeting** of *WALLABY students' getting together*                                                                   |
+| 14:00 | *Free afternoon*            | [**Public team meeting** of *WALLABY students' getting together*](#wallaby-students-getting-together)                        |
 
 ## Thursday 15 October
 ##### Dynamics
@@ -107,7 +109,7 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 | 10:30 | *Break (45min)*  |                                                                                                               |
 | 11:15 | Qingzheng Yu     | Hidden HI clouds in the Milky Way’s nuclear wind                                                              |
 |       | Ruitian Li       | A spatially resolved HI survey of Seyfert galaxies: The role of AGN feedback in shaping atomic gas reservoirs |
-|       |                  | Closing remarks for plenary sessions                                                                          |
+|       |                  | *Closing remarks* for plenary sessions                                                                        |
 | 12:10 | *Lunch*          |                                                                                                               |
 
 ##### Breakout sessions III
@@ -115,7 +117,7 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 | ----- | ----- | ----- |
 | 14:00 | **Discussion &mdash; Source Finding**<br/>(*Led by:* Peter Kamphuis)<br/>[Featured talks](#discussion-1) | **Team meetings** |
 | 15:30 | *Break (30min)* | |
-| 16:00 | **Tutorial &mdash; Source Finding**<br/>(*Led by:* Michalina Maksymowicz-Maciata *for LESHI* and Paolo Serra *for SoFiA*) | **Team meeting** of *WALLABY* |
+| 16:00 | **Tutorial &mdash; Source Finding**<br/>(*Led by:* Michalina Maksymowicz-Maciata *for LESHI* and Paolo Serra *for SoFiA*) | [**Public team meeting** of *WALLABY*](#wallaby) |
 | 17:30 | *End of day* | |
 
 ## Featured talks in breakout/<wbr/>tutorial sessions
@@ -132,9 +134,19 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 ### Spectral Stacking
 [Monday afternoon](#breakout-sessions-i), *led by:* Martin Meyer & Nissim Kanekar
 
-| ----------- | -------------------------------------------------------------------------------------- |
-| Mika Naidoo | Stacking neutral hydrogen emission from infrared-luminous galaxies in the LADUMA field |
-| Craig Smith | Probing diffuse HI in galaxies with kinematically guided stacking                      |
+| ----- | ----------- | -------------------------------------------------------------------------------------- |
+| 16:10 | Mika Naidoo | Stacking neutral hydrogen emission from infrared-luminous galaxies in the LADUMA field |
+| 16:30 | Craig Smith | Probing diffuse HI in galaxies with kinematically guided stacking                      |
+| 16:50 |             | Discussion started by Balpreet Kaur & Nissim Kanekar                                   |
+
+### WALLABY students' getting together
+[Wednesday afternoon](#environment), *public team meeting*
+
+| ----- | --------------------- | -------------------------------------------------------------------------------- |
+| 14:00 | Lister Staveley-Smith | WALLABY Update                                                                   |
+| 14:20 | Seona Lee             | HI depletion times within the stellar disc with WALLABY: comparison with COLIBRE |
+| 14:40 | Boyi Ding             | HI Linewidth Measurements for WALLABY Galaxies from Busy Function Fits           |
+| 15:00 | Ze-zhong Liang        | Pinpointing WALLABY Flux Discrepancy with Tailored Mock Cleaning                 |
 
 ### Kinematical Modeling
 #### Discussion
@@ -157,7 +169,15 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 
 | ----- | -------------- | ---------------------------------------------------------------------------------------- |
 | 14:00 | Paolo Serra    | How to enhance your source finding: `spectre` and `deblend_sofia_detections`             |
-| 14:15 | Qifeng Huang   | Galaxy pairs in WALLABY: 3D source de-blending and SFR enhancement                       |
+| 14:15 | Qifeng Huang   | 3D deblending of galaxy pairs in HI data cube                                            |
 | 14:35 | Adrien Anthore | Convolutional neural networks for HI detection on SKA precursors: an update and analysis |
 | 14:55 | Peter Kamphuis | Labelled observations and mock data cubes for training and benchmarking                  |
 | 15:05 |                | Open discussion                                                                          |
+
+### WALLABY
+[Friday afternoon](#breakout-sessions-iii), *public team meeting*
+
+| ----- | --------------------- | ----------------------------------------------- |
+| 16:00 | Lister Staveley-Smith | WALLABY update                                  |
+| 16:20 | Nathan Deg            | Data access demo                                |
+| 16:40 | *Discussion*          | Multi-wavelength data; Public data release; Q&A |
