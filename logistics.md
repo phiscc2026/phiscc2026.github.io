@@ -21,6 +21,8 @@ The map below gives the location of KIAA (open it in
   Amap</a>).
 We remind foreign participants that the information in Google Maps may be outdated, and it is recommended to use Amap App when travelling in China, which has English labels and support.
 
+The optional conference dinner on Tuesday evening will be held at Building No. 17 of Dayuan Hotel (达园宾馆), close to the Yuanminyuan Park.
+
 <div id="amap" style="width:100%; height:600px;"></div>
 
 <script>
@@ -40,7 +42,17 @@ window.initMap = function () {
   }
 });
 
+  const markerD = new AMap.Marker({
+  position: [116.300132, 40.000094],
+  title: "Dayuan",
+  label: {
+    content: "Dayuan",
+    direction: "top"
+  }
+  });
+
   map.add(marker);
+  map.add(markerD);
 };
 </script>
 
