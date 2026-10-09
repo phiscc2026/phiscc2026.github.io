@@ -13,26 +13,26 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 
 | ----- | ----------------------------- | ---------------------------------------------------------------------------------------- |
 | 9:30  |                               | *Opening remarks*                                                                        |
-| 9:45  | Nissim Kanekar                | The HI properties of galaxies at cosmic noon and thereafter                              |
-|       | Balpreet Kaur                 | The HI properties of star-forming galaxies at $z\sim1$ in the COSMOS field               |
+| 9:45  | Nissim Kanekar (remote)       | The HI properties of galaxies at cosmic noon and thereafter                              |
+|       | Balpreet Kaur (remote)        | The HI properties of star-forming galaxies at $z\sim1$ in the COSMOS field               |
 |       | Hong Guo                      | HI scaling relations from the FASHI survey                                               |
-| 10:45 | *Break (45min)*               |                                                                                          |
-| 11:30 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
+| 10:45 | *Break (40min)*               |                                                                                          |
+| 11:25 | Hongwei Xi                    | FAST Ultra-Deep Survey                                                                   |
 |       | Lister Staveley-Smith         | A WALLABY/FUDS study of galaxy evolution                                                 |
 |       | Michalina Maksymowicz-Maciata | HI mass function from the largest sample of direct HI detections at $z>0.2$              |
-| 12:30 | *Lunch*                       |                                                                                          |
-| 14:00 | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
-|       | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
-|       | Abhisek Mohapatra             | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
+|       | Alessandro Bianchetti         | Spectral stacking frontiers: a synergy between MeerKAT and Euclid                        |
+| 12:45 | *Lunch*                       |                                                                                          |
+| 14:10 | Lara Featherstone             | The HI gas depletion timescales of star forming galaxies using the MeerKAT LADUMA survey |
+|       | Abhisek Mohapatra (remote)    | Tracing cold gas at extreme distances: New HI detections in the LADUMA field             |
 |       | Matthew Colless               | Better distances and peculiar velocities from the Tully&ndash;Fisher relation            |
 |       | Shilpa Ranchod                | MIGHTEE-HI: Past, present and future                                                     |
-| 15:40 | *Break (30min)*               |                                                                                          |
+| 15:30 | *Break (40min)*               |                                                                                          |
 
 ##### Breakout sessions I
 
 | ----- | ----- | ----- |
 | 16:10 | **Future Instruments**<br/>(*Led by:* Naomi McClure-Griffiths)<br/>[Featured talks](#future-instruments) | **Spectral Stacking**<br/>(*Led by:* Martin Meyer & Nissim Kanekar)<br/>[Featured talks](#spectral-stacking) |
-| 17:40 | *End of day* | |
+| 17:50 | *End of day* | |
 
 ## Tuesday 13 October
 ##### ISM structure/properties and star formation
@@ -82,14 +82,14 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 ## Thursday 15 October
 ##### Dynamics
 
-| ----- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| 9:30  | Sushma Kurapati    | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
-|       | Jiantong Cui       | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
-|       | Hao He             | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                      |
-| 10:30 | *Break (45min)*    |                                                                                                               |
-| 11:15 | Martin Meyer       | Deep HI with ASKAP                                                                                            |
-|       | Kyle Oman          | Modelling HI in the COLIBRE simulations                                                                       |
-| 11:55 | *Lunch*            |                                                                                                               |
+| ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| 9:30  | Sushma Kurapati (remote) | Galaxy kinematics to large radii: Rotation curves and angular momentum from MHONGOOSE                         |
+|       | Jiantong Cui             | The observed angular momentum distribution of nearby disk galaxies compared to theoretical expectations       |
+|       | Hao He                   | Probing disk dynamics: HI velocity dispersion in PHANGS-MeerKAT galaxies                                      |
+| 10:30 | *Break (45min)*          |                                                                                                               |
+| 11:15 | Martin Meyer             | Deep HI with ASKAP                                                                                            |
+|       | Kyle Oman                | Modelling HI in the COLIBRE simulations                                                                       |
+| 11:55 | *Lunch*                  |                                                                                                               |
 
 ##### Breakout sessions II 
 
@@ -124,12 +124,12 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 ### Future Instruments
 [Monday afternoon](#breakout-sessions-i), *led by:* Naomi McClure-Griffiths
 
-| ----------------------- | ------------------------------------- |
-| Naomi McClure-Griffiths | The future of HI astronomy and SKA HI |
-| Filippo Maccagni        | MeerKAT+                              |
-| Lister Staveley-Smith   | ASKAP+ and CryoPAF                    |
-| Bin Liu                 | FAST Core Array                       |
-| Ryan Keenan             | DSA 2000                              |
+| ----- | ----------------------- | ------------------------------------- |
+| 16:10 | Naomi McClure-Griffiths | The future of HI astronomy and SKA HI |
+| 16:30 | Filippo Maccagni        | MeerKAT+                              |
+| 16:50 | Lister Staveley-Smith   | ASKAP+ and CryoPAF                    |
+| 17:10 | Bin Liu                 | FAST Core Array                       |
+| 17:30 | Ryan Keenan             | DSA 2000                              |
 
 ### Spectral Stacking
 [Monday afternoon](#breakout-sessions-i), *led by:* Martin Meyer & Nissim Kanekar
