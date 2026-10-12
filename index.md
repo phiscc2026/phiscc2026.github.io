@@ -10,6 +10,9 @@ feature_image: "assets/weiminLake.jpg"
 The 16th workshop of the PHISCC will be held at KIAA, Peking University, Beijing, China, on 12&ndash;16 October 2026.
 **The [preliminary programme](/programme.md) is now available.**
 
+The workshop is broadcasted live by <a href="https://www.koushare.com/live/details/56352" target="_blank" rel="noopener noreferrer">
+  Kuoshare</a>.
+
 The abstract submission and registration have been closed due to the limited capacity.
 As per the tradition of PHISCC meetings, there is no conference fee.
 
