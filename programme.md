@@ -174,7 +174,6 @@ All talks in plenary sessions are 17-minute long plus 3 minutes for questions.
 | ----------- | -------------------------------------------------------------------------------------------------------------------- |
 | Se-Heon Oh  | Quantifying gas disequilibrium in galaxy disks from MHONGOOSE                                                        |
 | Hangyuan Li | Extending tilted-ring ritting with GPU-accelerated Bayesian inference                                                |
-| Yukun Liu   | Machine learning for galaxy kinematics: Accurate kinematic and dynamical mass estimation from single-dish HI spectra |
 
 #### Tutorial
 [Thursday afternoon](#breakout-sessions-ii), *led by:* Nathan Deg
